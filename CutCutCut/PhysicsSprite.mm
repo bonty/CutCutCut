@@ -59,10 +59,5 @@
 	return transform_;
 }
 
--(void) dealloc
-{
-	// 
-	[super dealloc];
-}
 
 @end
