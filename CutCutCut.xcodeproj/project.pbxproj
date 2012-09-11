@@ -185,6 +185,7 @@
 		B8A8F95815FF25E400B7652F /* PRRatcliffTriangulator.mm in Sources */ = {isa = PBXBuildFile; fileRef = B8A8F95315FF25E400B7652F /* PRRatcliffTriangulator.mm */; };
 		B8A8F95915FF25E400B7652F /* triangulate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B8A8F95515FF25E400B7652F /* triangulate.cpp */; };
 		B8A8F95C15FF2C0E00B7652F /* PolygonSprite.mm in Sources */ = {isa = PBXBuildFile; fileRef = B8A8F95B15FF2C0E00B7652F /* PolygonSprite.mm */; };
+		B8A8F95E15FF38BD00B7652F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B8A8F95D15FF38BD00B7652F /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -558,6 +559,7 @@
 		B8A8F95615FF25E400B7652F /* triangulate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = triangulate.h; sourceTree = "<group>"; };
 		B8A8F95A15FF2C0E00B7652F /* PolygonSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PolygonSprite.h; sourceTree = "<group>"; };
 		B8A8F95B15FF2C0E00B7652F /* PolygonSprite.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = PolygonSprite.mm; sourceTree = "<group>"; };
+		B8A8F95D15FF38BD00B7652F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -583,6 +585,7 @@
 		B8A8F70D15FF1F2600B7652F = {
 			isa = PBXGroup;
 			children = (
+				B8A8F95D15FF38BD00B7652F /* README.md */,
 				B8A8F72E15FF1F2600B7652F /* CutCutCut */,
 				B8A8F71B15FF1F2600B7652F /* Frameworks */,
 				B8A8F71915FF1F2600B7652F /* Products */,
@@ -1236,6 +1239,7 @@
 				B8A8F74815FF1F2600B7652F /* iTunesArtwork in Resources */,
 				B8A8F88615FF1F2800B7652F /* ChangeLog in Resources */,
 				B8A8F94915FF1F2800B7652F /* blocks.png in Resources */,
+				B8A8F95E15FF38BD00B7652F /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
